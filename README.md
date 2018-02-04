@@ -42,7 +42,7 @@ Your feedback and contributions are always welcome!
 
 ## Videos
 - [Geoffrey Hinton's talk: What is wrong with convolutional neural nets?](https://www.youtube.com/watch?v=rTawFwUvnLE) - Talk given at MIT. Brain & Cognitive Sciences - Fall Colloquium Series.
-- [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900) - "This is an amazingly good video. I wish I could explain capsules that well."﻿ (Geoffrey Hinton)
+- [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900) - "This is an amazingly good video. I wish I could explain capsules that well." (Geoffrey Hinton)
 - [Capsule networks: overview](https://www.youtube.com/watch?v=YqazfBLLV4U) - Overview of Hinton's capsule networks, including vector and matrix capsules.
 - [Overview of awesome videos](http://www.aisummary.com/blog/watch-three-videos-understand-capsule-networks/)
 
@@ -65,13 +65,13 @@ Your feedback and contributions are always welcome!
 ### TensorFlow
 - [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of Capsule Networks in Hinton's paper "Dynamic Routing Between Capsules"
 - [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks) - A Tensorflow implementation of Capsule Networks
-- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks) - A Tensorflow (v1.4) implementation of Capsule Networks (Dynamic Routing Between Capsules)
+- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks) - A Tensorflow (v1.4) implementation of Capsule Networks ([Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829))
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet) - Tensorflow Implementation of Adversarial Attack to Capsule Networks
 - [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier) - A Tensorflow implementation of CapsNet applied to a German traffic sign dataset
 - [gyang274/capsulesEM](https://github.com/gyang274/capsulesEM) - A tensorflow implementation of Hinton's [matrix capsules with EM routing]
 
 ### PyTorch
-- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper "Dynamic Routing Between Capsules"
+- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 - [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial) - Pytorch easy-to-follow Capsule Network tutorial
 
 ### Keras
