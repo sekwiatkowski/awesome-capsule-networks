@@ -15,7 +15,7 @@ Your feedback and contributions are always welcome!
 
 ## Table of Contents
 - [Papers](#papers)
-  - [Papers by Geoffrey Hinton and colleagues](#papers-by-hinton-et-al.)
+  - [Papers by Geoffrey Hinton and colleagues](#papers-by-hinton-et-al)
   - [Other papers](#other-papers)
 - [Videos](#videos)
 - [Blogs](#blogs)
@@ -82,7 +82,7 @@ Your feedback and contributions are always welcome!
 - [mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network) - Capsule network with variations. Originally proposed by Tieleman & Hinton
 
 ### Matlab
-- [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet) - A Matlab implementation of the capsule networks (or capsnet).
+- [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet) - A Matlab implementation of the capsule networks (or capsnet)
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
