@@ -63,6 +63,7 @@ Your feedback and contributions are always welcome!
 ## Implementations
 
 ### TensorFlow
+- [Sarasra/models](https://github.com/Sarasra/models) - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 - [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of Capsule Networks in Hinton's paper "Dynamic Routing Between Capsules"
 - [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks) - A Tensorflow implementation of Capsule Networks
 - [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks) - A Tensorflow (v1.4) implementation of Capsule Networks ([Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829))
