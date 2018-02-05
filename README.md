@@ -23,6 +23,7 @@ Your feedback and contributions are always welcome!
   - [Official implementation](#official-implementation)
   - [TensorFlow](#tensorflow)
   - [PyTorch](#pytorch)
+  - [Chainer](#chain)
   - [Torch](#torch)
   - [Lua](#lua)
   - [Matlab](#matlab)
@@ -81,6 +82,9 @@ Your feedback and contributions are always welcome!
 ### Keras
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 - [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN)
+
+### Chainer
+- [soskek/dynamic_routing_between_capsules](https://github.com/soskek/dynamic_routing_between_capsules)
 
 ### Torch
 - [mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
