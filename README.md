@@ -23,10 +23,11 @@ Your feedback and contributions are always welcome!
   - [Official implementation](#official-implementation)
   - [TensorFlow](#tensorflow)
   - [PyTorch](#pytorch)
-  - [Chainer](#chain)
+  - [Chainer](#chainer)
   - [Torch](#torch)
   - [Lua](#lua)
   - [Matlab](#matlab)
+  - [MXNet](#mxnet)
 - [License](#license)
 
 ## Papers
@@ -91,6 +92,9 @@ Your feedback and contributions are always welcome!
 
 ### Matlab
 - [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
+
+### MXNet
+- [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
