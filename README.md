@@ -67,26 +67,26 @@ Your feedback and contributions are always welcome!
 - [Sarasra/models](https://github.com/Sarasra/models) - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### TensorFlow
-- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of Capsule Networks in Hinton's paper "Dynamic Routing Between Capsules"
-- [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks) - A Tensorflow implementation of Capsule Networks
-- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks) - A Tensorflow (v1.4) implementation of Capsule Networks ([Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829))
-- [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet) - Tensorflow Implementation of Adversarial Attack to Capsule Networks
-- [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier) - A Tensorflow implementation of CapsNet applied to a German traffic sign dataset
-- [gyang274/capsulesEM](https://github.com/gyang274/capsulesEM) - A tensorflow implementation of Hinton's [matrix capsules with EM routing]
+- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+- [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
+- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
+- [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
+- [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier)
+- [gyang274/capsulesEM](https://github.com/gyang274/capsulesEM)
 
 ### PyTorch
-- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
-- [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial) - Pytorch easy-to-follow Capsule Network tutorial
+- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
+- [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
 
 ### Keras
-- [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) - A Keras implementation of CapsNet in NIPS2017 paper "Dynamic Routing Between Capsules"
-- [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN) - "Capsule Layer as a Discriminator in Generative Adversarial Networks"
+- [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+- [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN)
 
 ### Lua
-- [mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network) - Capsule network with variations. Originally proposed by Tieleman & Hinton
+- [mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
 
 ### Matlab
-- [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet) - A Matlab implementation of capsule networks
+- [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
