@@ -23,7 +23,7 @@ Your feedback and contributions are always welcome!
   - [Official implementation](#official-implementation)
   - [TensorFlow](#tensorflow)
   - [PyTorch](#pytorch)
-  - [Keras](#keras)
+  - [Torch](#torch)
   - [Lua](#lua)
   - [Matlab](#matlab)
 - [License](#license)
@@ -82,7 +82,7 @@ Your feedback and contributions are always welcome!
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 - [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN)
 
-### Lua
+### Torch
 - [mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
 
 ### Matlab
