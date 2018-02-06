@@ -19,7 +19,7 @@ Your feedback and contributions are always welcome!
   - [Other papers](#other-papers)
 - [Videos](#videos)
 - [Blogs](#blogs)
-- [Implementations](#implementations)
+- [Dynamic routing implementations](#dynamic-routing-implementations)
   - [Official implementation](#official-implementation)
   - [TensorFlow](#tensorflow)
   - [PyTorch](#pytorch)
@@ -28,6 +28,8 @@ Your feedback and contributions are always welcome!
   - [Lua](#lua)
   - [Matlab](#matlab)
   - [MXNet](#mxnet)
+- [EM routing implementations](#em-routing-implementations)
+  - [TensorFlow](#tensorflow)
 - [Social media](#social-media)  
 - [License](#license)
 
@@ -39,6 +41,7 @@ Your feedback and contributions are always welcome!
 - [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) - Hinton, G. E., Krizhevsky, A. and Wang, S. D. (2011)
 - [A parallel computation that assigns canonical object-based frames of reference.](http://www.cs.toronto.edu/~fritz/absps/object-based81.pdf) - Hinton, G.E. (1981)
 - [Shape representation in parallel systems](http://www.cs.toronto.edu/~fritz/absps/shape81.pdf) - Hinton, G.E. (1981)
+- [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf) - Tijmen Tieleman's disseration
 
 ### Other papers
 - [Capsule Network Performance on Complex Data](https://arxiv.org/pdf/1712.03480.pdf) - Xi, E., Bing, S. and Jin, Y. (2017)
@@ -61,10 +64,11 @@ Your feedback and contributions are always welcome!
 - [Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952) - Nick Bourdakos's introduction
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/) - Kendrick Tan's explanation
 - [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/): Jonathan Hui's tutorial with commented code
+- [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/) - Adrian Colyer's post on EM routing
 - [Capsule Networks: A Glossary](http://www.aisummary.com/blog/capsule-networks-glossary/) - Sebastian Kwiatkowski's glossary
 - [Overview of awesome articles](http://www.aisummary.com/blog/three-complementary-capsule-network-tutorials/)
 
-## Implementations
+## Dynamic routing implementations
 
 ### Official implementation
 - [Sarasra/models](https://github.com/Sarasra/models) - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
@@ -75,7 +79,6 @@ Your feedback and contributions are always welcome!
 - [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
 - [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier)
-- [gyang274/capsulesEM](https://github.com/gyang274/capsulesEM)
 
 ### PyTorch
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
@@ -97,7 +100,12 @@ Your feedback and contributions are always welcome!
 ### MXNet
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 
-## Social Media
+## EM routing implementations
+
+### TensorFlow
+- [gyang274/capsulesEM](https://github.com/gyang274/capsulesEM)
+
+## Social media
 - [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
 - [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
 
