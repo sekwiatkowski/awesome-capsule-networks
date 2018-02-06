@@ -29,7 +29,7 @@ Your feedback and contributions are always welcome!
   - [Matlab](#matlab)
   - [MXNet](#mxnet)
 - [EM routing implementations](#em-routing-implementations)
-  - [TensorFlow](#tensorflow)
+  - [TensorFlow](#em-routing-tensorflow)
 - [Social media](#social-media)  
 - [License](#license)
 
@@ -101,9 +101,10 @@ Your feedback and contributions are always welcome!
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 
 ## EM routing implementations
-
-### TensorFlow
-- [gyang274/capsulesEM](https://github.com/gyang274/capsulesEM)
+<h3 id="em-routing-tensorflow">TensorFlow</h3>
+<ul>
+  <li><a href="https://github.com/gyang274/capsulesEM">gyang274/capsulesEM</a></li>
+</ul>
 
 ## Social media
 - [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
