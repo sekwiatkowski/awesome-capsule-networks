@@ -28,6 +28,7 @@ Your feedback and contributions are always welcome!
   - [Lua](#lua)
   - [Matlab](#matlab)
   - [MXNet](#mxnet)
+- [Social media](#social-media)  
 - [License](#license)
 
 ## Papers
@@ -95,6 +96,10 @@ Your feedback and contributions are always welcome!
 
 ### MXNet
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
+
+## Social Media
+- [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
+- [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
