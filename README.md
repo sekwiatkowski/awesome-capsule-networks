@@ -31,7 +31,7 @@ Your feedback and contributions are always welcome!
 - [EM routing implementations](#em-routing-implementations)
   - [TensorFlow](#em-routing-tensorflow)
   - [PyTorch](#em-routing-pytorch)
-- [Social media](#social-media)  
+- [Other resources](#other-resources)  
 - [License](#license)
 
 ## Papers
@@ -113,8 +113,9 @@ Your feedback and contributions are always welcome!
   <li><a href="shzygmyx/Matrix-Capsules-pytorch">https://github.com/shzygmyx/Matrix-Capsules-pytorch</a></li>
 </ul>
 
-## Social media
+## Other resources
 - [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
+- [loretoparisi/CapsNet](https://github.com/loretoparisi/CapsNet) - Loreto Parisi's list of capsule network resources
 - [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
 
 ## License
