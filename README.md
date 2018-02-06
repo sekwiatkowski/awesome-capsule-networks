@@ -110,7 +110,7 @@ Your feedback and contributions are always welcome!
 
 <h3 id="em-routing-pytorch">PyTorch</h3>
 <ul>
-  <li><a href="shzygmyx/Matrix-Capsules-pytorch">https://github.com/shzygmyx/Matrix-Capsules-pytorch</a></li>
+  <li><a href="https://github.com/shzygmyx/Matrix-Capsules-pytorch">shzygmyx/Matrix-Capsules-pytorch</a></li>
 </ul>
 
 ## Other resources
