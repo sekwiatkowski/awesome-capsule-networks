@@ -30,6 +30,7 @@ Your feedback and contributions are always welcome!
   - [MXNet](#mxnet)
 - [EM routing implementations](#em-routing-implementations)
   - [TensorFlow](#em-routing-tensorflow)
+  - [PyTorch](#em-routing-pytorch)
 - [Social media](#social-media)  
 - [License](#license)
 
@@ -104,6 +105,12 @@ Your feedback and contributions are always welcome!
 <h3 id="em-routing-tensorflow">TensorFlow</h3>
 <ul>
   <li><a href="https://github.com/gyang274/capsulesEM">gyang274/capsulesEM</a></li>
+  <li><a href="https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow">www0wwwjs1/Matrix-Capsules-EM-Tensorflow</a></li>
+</ul>
+
+<h3 id="em-routing-pytorch">PyTorch</h3>
+<ul>
+  <li><a href="shzygmyx/Matrix-Capsules-pytorch">https://github.com/shzygmyx/Matrix-Capsules-pytorch</a></li>
 </ul>
 
 ## Social media
