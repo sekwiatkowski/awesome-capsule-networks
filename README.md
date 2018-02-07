@@ -25,7 +25,6 @@ Your feedback and contributions are always welcome!
   - [PyTorch](#pytorch)
   - [Chainer](#chainer)
   - [Torch](#torch)
-  - [Lua](#lua)
   - [Matlab](#matlab)
   - [MXNet](#mxnet)
 - [EM routing implementations](#em-routing-implementations)
