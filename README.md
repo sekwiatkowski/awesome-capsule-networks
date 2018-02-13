@@ -69,6 +69,7 @@ Your feedback and contributions are always welcome!
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/) - Adrian Colyer's post on EM routing
 - [Capsule Networks: A Glossary](http://www.aisummary.com/blog/capsule-networks-glossary/) - Sebastian Kwiatkowski's glossary
 - [Overview of awesome articles](http://www.aisummary.com/blog/three-complementary-capsule-network-tutorials/)
+- [Cuda, TensorFlow and Capsule Networks](http://jostosh.github.io/posts/capscuda.html) - Jos van de Wolfshaar
 
 ## Dynamic routing implementations
 
