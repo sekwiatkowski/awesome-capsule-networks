@@ -67,6 +67,7 @@ Your feedback and contributions are always welcome!
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/) - Kendrick Tan's explanation
 - [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/): Jonathan Hui's tutorial with commented code
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/) - Adrian Colyer's post on EM routing
+- [Cuda, TensorFlow and Capsule Networks](http://jostosh.github.io/posts/capscuda.html) - Jos van de Wolfshaar's post on custom TensorFlow Ops with CUDA support
 - [Capsule Networks: A Glossary](http://www.aisummary.com/blog/capsule-networks-glossary/) - Sebastian Kwiatkowski's glossary
 - [Overview of awesome articles](http://www.aisummary.com/blog/three-complementary-capsule-network-tutorials/)
 
