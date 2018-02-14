@@ -70,6 +70,7 @@ Your feedback and contributions are always welcome!
 - [Cuda, TensorFlow and Capsule Networks](http://jostosh.github.io/posts/capscuda.html) - Jos van de Wolfshaar's post on custom TensorFlow Ops with CUDA support for the prediction operation
 - [Capsule Networks: A Glossary](http://www.aisummary.com/blog/capsule-networks-glossary/) - Sebastian Kwiatkowski's glossary
 - [Overview of awesome articles](http://www.aisummary.com/blog/three-complementary-capsule-network-tutorials/)
+- [Cuda, TensorFlow and Capsule Networks](http://jostosh.github.io/posts/capscuda.html) - Jos van de Wolfshaar
 
 ## Dynamic routing implementations
 
