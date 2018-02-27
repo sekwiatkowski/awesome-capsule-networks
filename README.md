@@ -124,8 +124,12 @@ Your feedback and contributions are always welcome!
 
 ## Other resources
 - [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
+- [CapsNet-Tensorflow](https://gitter.im/CapsNet-Tensorflow/Lobby) - CapsNet-Tensorflow's gitter.im group
 - [loretoparisi/CapsNet](https://github.com/loretoparisi/CapsNet) - Loreto Parisi's list of capsule network resources
 - [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
+- [Could GANs work with Hinton's capsule theory?](https://www.quora.com/Could-GANs-work-with-Hintons-capsule-theory) - A question discussed on Quora
+- [Dynamic Routing Between Capsules](https://www.slideshare.net/kyuhwanjung/vuno-dl-seminarcapsnetskyuhwanjung20171109) Kyuhwan Jung's review on paper "Dynamic routing between Capsules" (a presentation)
+
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
