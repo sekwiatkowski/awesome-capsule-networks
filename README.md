@@ -69,10 +69,10 @@ Your feedback and contributions are always welcome!
   - [Part 4: CapsNet Architecture](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce)
 - [Uncovering the Intuition behind Capsule Networks and Inverse Graphic](https://hackernoon.com/uncovering-the-intuition-behind-capsule-networks-and-inverse-graphics-part-i-7412d121798d) - Tanay Kothari's long-form tutorial
 - [A Visual Representation of Capsule Connections in Dynamic Routing Between Capsules](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737) - Mike Ross's diagram
-- [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc) - Debarko De's tutorial with commented code
+- [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc) - Debarko De's tutorial with commented code (implemented with TensorFlow)
 - [Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952) - Nick Bourdakos's introduction
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/) - Kendrick Tan's explanation
-- [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/): Jonathan Hui's tutorial with commented code
+- [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/): Jonathan Hui's tutorial with commented code (implemented with Keras)
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/) - Adrian Colyer's post on EM routing
 - [Cuda, TensorFlow and Capsule Networks](http://jostosh.github.io/posts/capscuda.html) - Jos van de Wolfshaar's post on custom TensorFlow Ops with CUDA support for the prediction operation
 - [Capsule Networks: A Glossary](http://www.aisummary.com/blog/capsule-networks-glossary/) - Sebastian Kwiatkowski's glossary
