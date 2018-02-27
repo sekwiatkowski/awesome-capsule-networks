@@ -60,6 +60,7 @@ Your feedback and contributions are always welcome!
 - [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900) - "This is an amazingly good video. I wish I could explain capsules that well." (Geoffrey Hinton)
 - [Capsule networks: overview](https://www.youtube.com/watch?v=YqazfBLLV4U) - Overview of Hinton's capsule networks, including vector and matrix capsules.
 - [Overview of awesome videos](http://www.aisummary.com/blog/watch-three-videos-understand-capsule-networks/)
+[Capsule Networks: An Improvement to Convolutional Networks](https://www.youtube.com/watch?v=VKoLGnq15RM) by Siraj Raval
 
 ## Blogs
 - Understanding Hinton’s Capsule Networks - Max Pechyonkin's series
