@@ -18,7 +18,8 @@ Your feedback and contributions are always welcome!
 ## Table of Contents
 - [Papers](#papers)
   - [Papers by Geoffrey Hinton and colleagues](#papers-by-hinton-et-al)
-  - [Other papers](#other-papers)
+  - [Under review](#under-review)
+  - [Preprints](#preprints)  
 - [Videos](#videos)
 - [Blogs](#blogs)
 - [Dynamic routing implementations](#dynamic-routing-implementations)
@@ -45,10 +46,13 @@ Your feedback and contributions are always welcome!
 - [Shape representation in parallel systems](http://www.cs.toronto.edu/~fritz/absps/shape81.pdf) - Hinton, G.E. (1981)
 - [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf) - Tijmen Tieleman's disseration
 
-### Other papers
+### Under review
+- [An Optimization View on Dynamic Routing Between Capsules](https://openreview.net/forum?id=HJjtFYJDf) - Wang, D., Liu, E. (2018)
+- [Spectral Capsule Networks](https://openreview.net/forum?id=ByVJlqR8G) - Bahadori, M. T. (2018)
+
+### Preprints
 - [Capsule Network Performance on Complex Data](https://arxiv.org/pdf/1712.03480.pdf) - Xi, E., Bing, S. and Jin, Y. (2017)
 - [Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture](https://arxiv.org/ftp/arxiv/papers/1801/1801.00602.pdf) - Qiao, K., Zhang, C., Wang, L., Yan, B., Chen, J., Zeng, L. and Tong, L., (2018)
-- [An Optimization View on Dynamic Routing Between Capsules](https://openreview.net/forum?id=HJjtFYJDf) - Wang, D., Liu, E. (2018)
 
 ## Videos
 - [Geoffrey Hinton's talk: What is wrong with convolutional neural nets?](https://www.youtube.com/watch?v=rTawFwUvnLE) - Talk given at MIT. Brain & Cognitive Sciences - Fall Colloquium Series.
