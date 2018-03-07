@@ -85,19 +85,51 @@ Your feedback and contributions are always welcome!
 - [Sarasra/models](https://github.com/Sarasra/models) - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### TensorFlow
-- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+
+- [alisure-ml/CapsNet](https://github.com/alisure-ml/CapsNet)
 - [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
-- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
+- [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
+- [InnerPeace-Wu/CapsNet-tensorflow](https://github.com/InnerPeace-Wu/CapsNet-tensorflow)
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
+- [jostosh/capsnet](https://github.com/jostosh/capsnet)
+- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
+- [laodar/tf_CapsNet](https://github.com/laodar/tf_CapsNet)
+- [leoniloris/CapsNet](https://github.com/leoniloris/CapsNet)
+- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+- [rrqq/CapsNet-tensorflow-jupyter](https://github.com/rrqq/CapsNet-tensorflow-jupyter)
 - [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier)
+- [tjiang31/CapsNet](https://github.com/tjiang31/CapsNet)
+- [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow
 
 ### PyTorch
+
+- [acburigo/CapsNet](https://github.com/acburigo/CapsNet)
+- [adambielski/CapsNet-pytorch](https://github.com/adambielski/CapsNet-pytorch)
+- [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
+- [aliasvishnu/Capsule-Networks-Notebook-MNIST](https://github.com/aliasvishnu/Capsule-Networks-Notebook-MNIST)
+- [andreaazzini/capsnet.pytorch](https://github.com/andreaazzini/capsnet.pytorch)
+- [cedrickchee/capsule-net-pytorch
+](https://github.com/cedrickchee/capsule-net-pytorch)
+- [dragen1860/CapsNet-Pytorch](https://github.com/dragen1860/CapsNet-Pytorch)
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
 - [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
+- [laubonghaudoi/CapsNet_guide_PyTorch](https://github.com/laubonghaudoi/CapsNet_guide_PyTorch)
+- [leftthomas/CapsNet](https://github.com/leftthomas/CapsNet)
+- [nishnik/CapsNet-PyTorch](https://github.com/nishnik/CapsNet-PyTorch)
+- [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
+- [Ujjwal-9/CapsNet](https://github.com/Ujjwal-9/CapsNet)
 
 ### Keras
-- [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+
+- [fengwang/minimal-capsule](https://github.com/fengwang/minimal-capsule)
 - [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN)
+- [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
+- [ruslangrimov/capsnet-with-capsulewise-convolution](https://github.com/ruslangrimov/capsnet-with-capsulewise-convolution)
+- [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
+- [sunxirui310/CapsNet-Keras](https://github.com/sunxirui310/CapsNet-Keras)
+- [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
+- [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+- [XifengGuo/CapsNet-Fashion-MNIST](https://github.com/XifengGuo/CapsNet-Fashion-MNIST)
 
 ### Chainer
 - [soskek/dynamic_routing_between_capsules](https://github.com/soskek/dynamic_routing_between_capsules)
@@ -109,7 +141,34 @@ Your feedback and contributions are always welcome!
 - [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
 
 ### MXNet
+
+- [AaronLeong/CapsNet_Mxnet](https://github.com/AaronLeong/CapsNet_Mxnet)
+- [GarrickLin/Capsnet.Gluon](https://github.com/GarrickLin/Capsnet.Gluon)
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
+
+**CNTK**
+
+- [Southworkscom/CapsNet-CNTK](https://github.com/southworkscom/CapsNet-CNTK)
+
+**Lasagne**
+
+- [DeniskaMazur/CapsNet-Lasagne](https://github.com/DeniskaMazur/CapsNet-Lasagne)
+
+**Matlab**
+
+- [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
+
+**R**
+
+- [dfalbel/capsnet](https://github.com/dfalbel/capsnet)
+
+**JavaScript**
+
+- [alseambusher/capsnet.js](https://github.com/alseambusher/capsnet.js)
+
+**Vulcan**
+
+- [moothyknight/CapsNet-for-Graphics-Rendering-Optimization](https://github.com/moothyknight/CapsNet-for-Graphics-Rendering-Optimization)
 
 ## EM routing implementations
 <h3 id="em-routing-tensorflow">TensorFlow</h3>
