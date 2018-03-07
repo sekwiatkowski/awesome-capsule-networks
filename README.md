@@ -189,7 +189,7 @@ Your feedback and contributions are always welcome!
 - [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
 - [Could GANs work with Hinton's capsule theory?](https://www.quora.com/Could-GANs-work-with-Hintons-capsule-theory) - A question discussed on Quora
 - [Dynamic Routing Between Capsules](https://www.slideshare.net/kyuhwanjung/vuno-dl-seminarcapsnetskyuhwanjung20171109) Kyuhwan Jung's review on paper "Dynamic routing between Capsules" (a presentation)
-
+- [胶囊网络资源汇总](https://www.jqr.com/article/000069) A Chinese (zh_CN) translation of this awesome CapsNet list.
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
