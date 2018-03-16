@@ -23,16 +23,18 @@ Your feedback and contributions are always welcome!
 - [Videos](#videos)
 - [Blogs](#blogs)
 - [Dynamic routing implementations](#dynamic-routing-implementations)
-  - [Official implementation](#official-implementation)
-  - [TensorFlow](#tensorflow)
-  - [PyTorch](#pytorch)
-  - [Chainer](#chainer)
-  - [Torch](#torch)
+  - [Official implementation](#official-implementation)  
+  - [Chainer](#chainer)  
+  - [CNTK](#cnthk)
   - [Matlab](#matlab)
   - [MXNet](#mxnet)
+  - [PyTorch](#pytorch)
+  - [R](#r)
+  - [TensorFlow](#tensorflow)  
+  - [Torch](#torch)
 - [EM routing implementations](#em-routing-implementations)
-  - [TensorFlow](#em-routing-tensorflow)
   - [PyTorch](#em-routing-pytorch)
+  - [TensorFlow](#em-routing-tensorflow)  
 - [Other resources](#other-resources)  
 - [License](#license)
 
@@ -85,26 +87,15 @@ Your feedback and contributions are always welcome!
 ### Official implementation
 - [Sarasra/models](https://github.com/Sarasra/models) - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
-### TensorFlow
-- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
-- [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
-- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
-- [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
-- [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier)
+### Chainer
+- [soskek/dynamic_routing_between_capsules](https://github.com/soskek/dynamic_routing_between_capsules)
 
-### PyTorch
-- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
-- [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
+### CNTK
+- [Southworkscom/CapsNet-CNTK](https://github.com/southworkscom/CapsNet-CNTK)
 
 ### Keras
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 - [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN)
-
-### Chainer
-- [soskek/dynamic_routing_between_capsules](https://github.com/soskek/dynamic_routing_between_capsules)
-
-### Torch
-- [mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
 
 ### Matlab
 - [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
@@ -112,22 +103,33 @@ Your feedback and contributions are always welcome!
 ### MXNet
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 
-### CNTK
-- [Southworkscom/CapsNet-CNTK](https://github.com/southworkscom/CapsNet-CNTK)
+### PyTorch
+- [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
+- [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
 
 ### R
 - [dfalbel/capsnet](https://github.com/dfalbel/capsnet)
 
+### TensorFlow
+- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+- [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
+- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
+- [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
+- [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier)
+
+### Torch
+- [mrkulk/Unsupervised-Capsule-Network](https://github.com/mrkulk/Unsupervised-Capsule-Network)
+
 ## EM routing implementations
+<h3 id="em-routing-pytorch">PyTorch</h3>
+<ul>
+  <li><a href="https://github.com/shzygmyx/Matrix-Capsules-pytorch">shzygmyx/Matrix-Capsules-pytorch</a></li>
+</ul>
+
 <h3 id="em-routing-tensorflow">TensorFlow</h3>
 <ul>
   <li><a href="https://github.com/gyang274/capsulesEM">gyang274/capsulesEM</a></li>
   <li><a href="https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow">www0wwwjs1/Matrix-Capsules-EM-Tensorflow</a></li>
-</ul>
-
-<h3 id="em-routing-pytorch">PyTorch</h3>
-<ul>
-  <li><a href="https://github.com/shzygmyx/Matrix-Capsules-pytorch">shzygmyx/Matrix-Capsules-pytorch</a></li>
 </ul>
 
 ## Other resources
