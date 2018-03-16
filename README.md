@@ -128,6 +128,7 @@ Your feedback and contributions are always welcome!
 - [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
 - [loretoparisi/CapsNet](https://github.com/loretoparisi/CapsNet) - Loreto Parisi's list of capsule network resources
 - [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
+- [Capsule Networks HW](https://github.com/vkantor/Data_Mining_in_Action_2018_Spring/blob/master/trends/data_2/CapsuleNetwork_HW.ipynb) - Homework assignwork in a Python Notebook format
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
