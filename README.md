@@ -25,7 +25,7 @@ Your feedback and contributions are always welcome!
 - [Dynamic routing implementations](#dynamic-routing-implementations)
   - [Official implementation](#official-implementation)  
   - [Chainer](#chainer)  
-  - [CNTK](#cnthk)
+  - [CNTK](#cntk)
   - [Matlab](#matlab)
   - [MXNet](#mxnet)
   - [PyTorch](#pytorch)
