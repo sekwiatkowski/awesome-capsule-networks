@@ -60,6 +60,7 @@ Your feedback and contributions are always welcome!
 - [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900) - "This is an amazingly good video. I wish I could explain capsules that well." (Geoffrey Hinton)
 - [Capsule networks: overview](https://www.youtube.com/watch?v=YqazfBLLV4U) - Overview of Hinton's capsule networks, including vector and matrix capsules.
 - [Overview of awesome videos](http://www.aisummary.com/blog/watch-three-videos-understand-capsule-networks/)
+[Capsule Networks: An Improvement to Convolutional Networks](https://www.youtube.com/watch?v=VKoLGnq15RM) by Siraj Raval
 
 ## Blogs
 - Understanding Hinton’s Capsule Networks - Max Pechyonkin's series
@@ -69,10 +70,11 @@ Your feedback and contributions are always welcome!
   - [Part 4: CapsNet Architecture](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce)
 - [Uncovering the Intuition behind Capsule Networks and Inverse Graphic](https://hackernoon.com/uncovering-the-intuition-behind-capsule-networks-and-inverse-graphics-part-i-7412d121798d) - Tanay Kothari's long-form tutorial
 - [A Visual Representation of Capsule Connections in Dynamic Routing Between Capsules](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737) - Mike Ross's diagram
-- [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc) - Debarko De's tutorial with commented code
+- [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc) - Debarko De's tutorial with commented code (implemented with TensorFlow)
 - [Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952) - Nick Bourdakos's introduction
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/) - Kendrick Tan's explanation
-- [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/): Jonathan Hui's tutorial with commented code
+- [Capsule Neural Networks Are Here to Finally Recognize Spatial Relationships. Part 1: CNNs and their problems.](https://towardsdatascience.com/capsule-neural-networks-are-here-to-finally-recognize-spatial-relationships-693b7c99b12) Tomer Eldor's tutorial
+- [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/): Jonathan Hui's tutorial with commented code (implemented with Keras)
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/) - Adrian Colyer's post on EM routing
 - [Cuda, TensorFlow and Capsule Networks](http://jostosh.github.io/posts/capscuda.html) - Jos van de Wolfshaar's post on custom TensorFlow Ops with CUDA support for the prediction operation
 - [Capsule Networks: A Glossary](http://www.aisummary.com/blog/capsule-networks-glossary/) - Sebastian Kwiatkowski's glossary
@@ -84,19 +86,51 @@ Your feedback and contributions are always welcome!
 - [Sarasra/models](https://github.com/Sarasra/models) - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### TensorFlow
-- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+
+- [alisure-ml/CapsNet](https://github.com/alisure-ml/CapsNet)
 - [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks)
-- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
+- [etendue/CapsNet_TF](https://github.com/etendue/CapsNet_TF)
+- [InnerPeace-Wu/CapsNet-tensorflow](https://github.com/InnerPeace-Wu/CapsNet-tensorflow)
 - [jaesik817/adv_attack_capsnet](https://github.com/jaesik817/adv_attack_capsnet)
+- [jostosh/capsnet](https://github.com/jostosh/capsnet)
+- [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks)
+- [laodar/tf_CapsNet](https://github.com/laodar/tf_CapsNet)
+- [leoniloris/CapsNet](https://github.com/leoniloris/CapsNet)
+- [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+- [rrqq/CapsNet-tensorflow-jupyter](https://github.com/rrqq/CapsNet-tensorflow-jupyter)
 - [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier)
+- [tjiang31/CapsNet](https://github.com/tjiang31/CapsNet)
+- [winwinJJiang/capsNet-Tensorflow](https://github.com/winwinJJiang/capsNet-Tensorflow
 
 ### PyTorch
+
+- [acburigo/CapsNet](https://github.com/acburigo/CapsNet)
+- [adambielski/CapsNet-pytorch](https://github.com/adambielski/CapsNet-pytorch)
+- [AlexHex7/CapsNet_pytorch](https://github.com/AlexHex7/CapsNet_pytorch)
+- [aliasvishnu/Capsule-Networks-Notebook-MNIST](https://github.com/aliasvishnu/Capsule-Networks-Notebook-MNIST)
+- [andreaazzini/capsnet.pytorch](https://github.com/andreaazzini/capsnet.pytorch)
+- [cedrickchee/capsule-net-pytorch
+](https://github.com/cedrickchee/capsule-net-pytorch)
+- [dragen1860/CapsNet-Pytorch](https://github.com/dragen1860/CapsNet-Pytorch)
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
 - [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
+- [laubonghaudoi/CapsNet_guide_PyTorch](https://github.com/laubonghaudoi/CapsNet_guide_PyTorch)
+- [leftthomas/CapsNet](https://github.com/leftthomas/CapsNet)
+- [nishnik/CapsNet-PyTorch](https://github.com/nishnik/CapsNet-PyTorch)
+- [tonysy/CapsuleNet-PyTorch](https://github.com/tonysy/CapsuleNet-PyTorch)
+- [Ujjwal-9/CapsNet](https://github.com/Ujjwal-9/CapsNet)
 
 ### Keras
-- [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+
+- [fengwang/minimal-capsule](https://github.com/fengwang/minimal-capsule)
 - [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN)
+- [mitiku1/Emopy-CapsNet](https://github.com/mitiku1/Emopy-CapsNet)
+- [ruslangrimov/capsnet-with-capsulewise-convolution](https://github.com/ruslangrimov/capsnet-with-capsulewise-convolution)
+- [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
+- [sunxirui310/CapsNet-Keras](https://github.com/sunxirui310/CapsNet-Keras)
+- [theblackcat102/dynamic-routing-capsule-cifar](https://github.com/theblackcat102/dynamic-routing-capsule-cifar)
+- [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+- [XifengGuo/CapsNet-Fashion-MNIST](https://github.com/XifengGuo/CapsNet-Fashion-MNIST)
 
 ### Chainer
 - [soskek/dynamic_routing_between_capsules](https://github.com/soskek/dynamic_routing_between_capsules)
@@ -108,7 +142,34 @@ Your feedback and contributions are always welcome!
 - [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
 
 ### MXNet
+
+- [AaronLeong/CapsNet_Mxnet](https://github.com/AaronLeong/CapsNet_Mxnet)
+- [GarrickLin/Capsnet.Gluon](https://github.com/GarrickLin/Capsnet.Gluon)
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
+
+**CNTK**
+
+- [Southworkscom/CapsNet-CNTK](https://github.com/southworkscom/CapsNet-CNTK)
+
+**Lasagne**
+
+- [DeniskaMazur/CapsNet-Lasagne](https://github.com/DeniskaMazur/CapsNet-Lasagne)
+
+**Matlab**
+
+- [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet)
+
+**R**
+
+- [dfalbel/capsnet](https://github.com/dfalbel/capsnet)
+
+**JavaScript**
+
+- [alseambusher/capsnet.js](https://github.com/alseambusher/capsnet.js)
+
+**Vulcan**
+
+- [moothyknight/CapsNet-for-Graphics-Rendering-Optimization](https://github.com/moothyknight/CapsNet-for-Graphics-Rendering-Optimization)
 
 ## EM routing implementations
 <h3 id="em-routing-tensorflow">TensorFlow</h3>
@@ -124,8 +185,12 @@ Your feedback and contributions are always welcome!
 
 ## Other resources
 - [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
+- [CapsNet-Tensorflow](https://gitter.im/CapsNet-Tensorflow/Lobby) - CapsNet-Tensorflow's gitter.im group
 - [loretoparisi/CapsNet](https://github.com/loretoparisi/CapsNet) - Loreto Parisi's list of capsule network resources
 - [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
+- [Could GANs work with Hinton's capsule theory?](https://www.quora.com/Could-GANs-work-with-Hintons-capsule-theory) - A question discussed on Quora
+- [Dynamic Routing Between Capsules](https://www.slideshare.net/kyuhwanjung/vuno-dl-seminarcapsnetskyuhwanjung20171109) Kyuhwan Jung's review on paper "Dynamic routing between Capsules" (a presentation)
+- [胶囊网络资源汇总](https://www.jqr.com/article/000069) A Chinese (zh_CN) translation of this awesome CapsNet list.
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
