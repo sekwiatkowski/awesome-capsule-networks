@@ -26,6 +26,7 @@ Your feedback and contributions are always welcome!
   - [Official implementation](#official-implementation)  
   - [Chainer](#chainer)  
   - [CNTK](#cntk)
+  - [Keras](#keras)
   - [Matlab](#matlab)
   - [MXNet](#mxnet)
   - [PyTorch](#pytorch)
