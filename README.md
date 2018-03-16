@@ -112,6 +112,12 @@ Your feedback and contributions are always welcome!
 ### MXNet
 - [Soonhwan-Kwon/capsnet.mxnet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 
+### CNTK
+- [Southworkscom/CapsNet-CNTK](https://github.com/southworkscom/CapsNet-CNTK)
+
+### R
+- [dfalbel/capsnet](https://github.com/dfalbel/capsnet)
+
 ## EM routing implementations
 <h3 id="em-routing-tensorflow">TensorFlow</h3>
 <ul>
