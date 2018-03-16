@@ -55,6 +55,7 @@ Your feedback and contributions are always welcome!
 - [Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture](https://arxiv.org/ftp/arxiv/papers/1801/1801.00602.pdf) - Qiao, K., Zhang, C., Wang, L., Yan, B., Chen, J., Zeng, L. and Tong, L. (2018)
 - [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167.pdf) - Jaiswal, A., AbdAlmageed, W. and Natarajan, P. (2018)
 - [Brain Tumor Type Classification via Capsule Networks](https://arxiv.org/pdf/1802.10200.pdf) - Afshar, Parnian., Mohammadi, A., and Plataniotis, K. N. (2018)
+- [Sentiment Analysis by Capsules](https://www.researchgate.net/profile/Aixin_Sun/publication/323257127_Sentiment_Analysis_by_Capsules/links/5a8a3be5aca272017e621e81/Sentiment-Analysis-by-Capsules.pdf) - Wang, Y., Sun, A., Han, J., Liu, Y. and Zhu, X. (2018)
 
 ## Videos
 - [Geoffrey Hinton's talk: What is wrong with convolutional neural nets?](https://www.youtube.com/watch?v=rTawFwUvnLE) - Talk given at MIT. Brain & Cognitive Sciences - Fall Colloquium Series.
