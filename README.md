@@ -59,6 +59,7 @@ Your feedback and contributions are always welcome!
 - [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167.pdf) - Jaiswal, A., AbdAlmageed, W. and Natarajan, P. (2018)
 - [Brain Tumor Type Classification via Capsule Networks](https://arxiv.org/pdf/1802.10200.pdf) - Afshar, Parnian., Mohammadi, A., and Plataniotis, K. N. (2018)
 - [Sentiment Analysis by Capsules](https://www.researchgate.net/profile/Aixin_Sun/publication/323257127_Sentiment_Analysis_by_Capsules/links/5a8a3be5aca272017e621e81/Sentiment-Analysis-by-Capsules.pdf) - Wang, Y., Sun, A., Han, J., Liu, Y. and Zhu, X. (2018)
+- [Capsules for Object Segmentation](https://arxiv.org/pdf/1804.04241.pdf) - LaLonde, R. and Bagci, U. (2018)
 
 ## Videos
 - [Geoffrey Hinton's talk: What is wrong with convolutional neural nets?](https://www.youtube.com/watch?v=rTawFwUvnLE) - Talk given at MIT. Brain & Cognitive Sciences - Fall Colloquium Series.
