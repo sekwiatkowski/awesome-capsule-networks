@@ -10,10 +10,10 @@ Please [pull a request](https://github.com/aisummary/awesome-capsule-networks/pu
 Your feedback and contributions are always welcome!
 
 ## Sharing
-- [Share on Twitter](http://twitter.com/home?status=http://github.com/aisummary/awesome-capsule-networks)
-- [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=http://github.com/aisummary/awesome-capsule-networks)
-- [Share on Google Plus](http://plus.google.com/share?url=http://github.com/aisummary/awesome-capsule-networks)
-- [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http://github.com/aisummary/awesome-capsule-networks)
+- [Share on Twitter](http://twitter.com/home?status=http://github.com/sekwiatkowski/awesome-capsule-networks)
+- [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=http://github.com/sekwiatkowski/awesome-capsule-networks)
+- [Share on Google Plus](http://plus.google.com/share?url=http://github.com/sekwiatkowski/awesome-capsule-networks)
+- [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http://github.com/sekwiatkowski/awesome-capsule-networks)
 
 ## Table of Contents
 - [Papers](#papers)
