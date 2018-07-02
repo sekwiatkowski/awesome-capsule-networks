@@ -62,6 +62,7 @@ Your feedback and contributions are always welcome!
 - [Capsules for Object Segmentation](https://arxiv.org/pdf/1804.04241.pdf) - LaLonde, R. and Bagci, U. (2018)
 - [Sparse Unsupervised Capsules Generalize Better](https://arxiv.org/abs/1804.06094) - Rawlinson, D., Ahmed, A. and Kowadlo, G. (2018)
 - [VideoCapsuleNet: A Simplified Network for Action Detection](https://arxiv.org/abs/1805.08162) - Duarte, K., Rawat, Y.S. and Shah, M. (2018)
+- [Fast CapsNet for Lung Cancer Screening](https://arxiv.org/abs/1806.07416) - Mobiny, A. and Nguyen, H.V. (2018)
 
 ## Videos
 - [Geoffrey Hinton's talk: What is wrong with convolutional neural nets?](https://www.youtube.com/watch?v=rTawFwUvnLE) - Talk given at MIT. Brain & Cognitive Sciences - Fall Colloquium Series.
