@@ -49,12 +49,12 @@ Your feedback and contributions are always welcome!
 - [Shape representation in parallel systems](http://www.cs.toronto.edu/~fritz/absps/shape81.pdf) - Hinton, G.E. (1981)
 - [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf) - Tijmen Tieleman's disseration
 
+### Other papers
+- [Multi-level Dense Capsule Networks](https://github.com/ssrp/Multi-level-DCNet) - S. S. R. Phaye, A. Sikka, A. Dhall and D. R. Bathula (2018)
+
 ### Under review
 - [An Optimization View on Dynamic Routing Between Capsules](https://openreview.net/forum?id=HJjtFYJDf) - Wang, D., Liu, E. (2018)
 - [Spectral Capsule Networks](https://openreview.net/forum?id=ByVJlqR8G) - Bahadori, M. T. (2018)
-
-### Accepted Papers
-- [Multi-level Dense Capsule Networks](https://github.com/ssrp/Multi-level-DCNet) - S. S. R. Phaye*, A. Sikka*, A. Dhall and D. R. Bathula (* Authors contributed equally) (ACCV 2018)
 
 ### Preprints
 - [Capsule Network Performance on Complex Data](https://arxiv.org/pdf/1712.03480.pdf) - Xi, E., Bing, S. and Jin, Y. (2017)
