@@ -137,6 +137,7 @@ Your feedback and contributions are always welcome!
 
 <h3 id="em-routing-tensorflow">TensorFlow</h3>
 <ul>
+  <li><a href="https://github.com/IBM/matrix-capsules-with-em-routing">IBM/matrix-capsules-with-em-routing</a></li>
   <li><a href="https://github.com/gyang274/capsulesEM">gyang274/capsulesEM</a></li>
   <li><a href="https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow">www0wwwjs1/Matrix-Capsules-EM-Tensorflow</a></li>
 </ul>
