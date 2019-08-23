@@ -50,6 +50,7 @@ Your feedback and contributions are always welcome!
 - [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf) - Tijmen Tieleman's disseration
 
 ### Other papers
+- [Avoiding Implementation Pitfalls of "Matrix Capsules with EM Routing" by Hinton et al](https://arxiv.org/pdf/1907.00652) - A. Gritzman (2019)
 - [Multi-level Dense Capsule Networks](https://github.com/ssrp/Multi-level-DCNet) - S. S. R. Phaye, A. Sikka, A. Dhall and D. R. Bathula (2018)
 
 ### Under review
