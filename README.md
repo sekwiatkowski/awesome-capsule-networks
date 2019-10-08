@@ -115,6 +115,7 @@ Your feedback and contributions are always welcome!
 ### PyTorch
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
 - [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial)
+- [bakirillov/capsules](https://github.com/bakirillov/capsules)
 
 ### R
 - [dfalbel/capsnet](https://github.com/dfalbel/capsnet)
