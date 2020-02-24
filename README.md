@@ -91,6 +91,7 @@ Your feedback and contributions are always welcome!
 - [Cuda, TensorFlow and Capsule Networks](http://jostosh.github.io/posts/capscuda.html) - Jos van de Wolfshaar's post on custom TensorFlow Ops with CUDA support for the prediction operation
 - [Capsule Networks: A Glossary](http://www.aisummary.com/blog/capsule-networks-glossary/) - Sebastian Kwiatkowski's glossary
 - [Overview of awesome articles](http://www.aisummary.com/blog/three-complementary-capsule-network-tutorials/)
+- [From Attention in Transformers to Dynamic Routing in Capsule Nets](https://staff.fnwi.uva.nl/s.abnar/?p=108) - Samira Abnar's post on comparing Capsule Nets with Transformers
 
 ## Dynamic routing implementations
 
